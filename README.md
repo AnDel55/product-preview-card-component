@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](assets/screenshots/desktop.jpg)
-![](assets/screenshots/mobile.jpg)
+![](https://github.com/AnDel55/product-preview-card-component/blob/main/screenshots/desktop.jpeg)
+![](https://github.com/AnDel55/product-preview-card-component/blob/main/screenshots/mobile.jpeg)
 
 ### Links
 - Live Site URL: [Product preview card component](https://anel-product-preview-card.netlify.app)
